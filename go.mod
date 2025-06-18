@@ -1,4 +1,4 @@
-module github.com/hoangtd4/xk6-rsa
+module github.com/Polar8ear/xk6-rs512
 
 go 1.23.4
 
